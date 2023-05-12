@@ -1,0 +1,39 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+.Taiwo{
+background-color: darkslategray;
+border: 1px solid#444;
+border-radius: 30px;
+max-width: 500px;
+margin: 40px auto;
+padding: 40px;
+cursor: pointer;
+}
+.Taiwo img{
+text-align: center;
+width: 300px;
+height: 300px;
+border-radius: 70%;
+margin-bottom: 30px;
+margin-left: 70px;
+}
+.Taiwo h1{
+color: black;
+text-align: center;
+margin: 20px;
+}
+
+.Taiwo h2{
+color: darkorange;
+text-align: center;
+margin: 20px;
+}
+
+.Taiwo p{
+line-height: 30px;
+color: white;
+
+}
